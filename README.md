@@ -14,3 +14,14 @@
             <td>: 09030282327049</td>
         </tr>
     </table>
+
+
+<h1 style="font-weight: bold;">
+  JUDUL PERCOBAAN
+</h1 >
+<hr>
+<h2>Membuat / griping Kabel Straight dan cross</h2>
+
+<h2> Alat dan Bahan </h2>
+
+
